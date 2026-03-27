@@ -6,5 +6,7 @@
         {
             Console.WriteLine("Hello, World!");
         }
+
+        // Борисов НикитаАлексеевич Ам-1-25
     }
 }
