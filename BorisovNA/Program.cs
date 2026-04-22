@@ -8,6 +8,12 @@
         }
 
         // Борисов НикитаАлексеевич Ам-1-25
+
+       
+        static public double Sqr(double X)
+        {
+            return X * X;
+        }
         //solve task2
         //solve task1
     }
