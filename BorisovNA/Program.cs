@@ -14,6 +14,8 @@
         {
             return X * X;
         }
+        //solve task2
+        //solve task1
         //solve task3
     }
 }
